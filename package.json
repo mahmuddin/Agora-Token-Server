@@ -1,0 +1,24 @@
+{
+  "name": "agora-token-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmuddin/Agora-Token-Server.git"
+  },
+  "author": "Mahmuddin Nurul Fajri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahmuddin/Agora-Token-Server/issues"
+  },
+  "homepage": "https://github.com/mahmuddin/Agora-Token-Server#readme",
+  "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "express": "^4.18.2"
+  }
+}
